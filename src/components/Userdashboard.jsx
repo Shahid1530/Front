@@ -9,7 +9,7 @@ function Sidebar() {
       <ul>
       <li><Link to="/add">Create Listing</Link></li>
         <li><Link to="/createblog">Create Blog</Link></li>
-
+        <li><Link to="/admindashboard">Admin</Link></li>
       </ul>
     </div>
   );
